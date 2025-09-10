@@ -2,33 +2,21 @@
   {
     "ContainingType": "Web_API_versioning.API.Controllers.CountriesController",
     "Method": "GetV1",
-    "RelativePath": "api/V{version}/Countries",
+    "RelativePath": "api/V1/Countries",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [
-      {
-        "Name": "version",
-        "Type": "",
-        "IsRequired": true
-      }
-    ],
+    "Parameters": [],
     "ReturnTypes": []
   },
   {
     "ContainingType": "Web_API_versioning.API.Controllers.CountriesController",
     "Method": "GetV2",
-    "RelativePath": "api/V{version}/Countries",
+    "RelativePath": "api/V2/Countries",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [
-      {
-        "Name": "version",
-        "Type": "",
-        "IsRequired": true
-      }
-    ],
+    "Parameters": [],
     "ReturnTypes": []
   }
 ]

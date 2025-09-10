@@ -2,10 +2,10 @@
   "openapi": "3.0.1",
   "info": {
     "title": "Yuor Versioned API",
-    "version": "1.0"
+    "version": "2.0"
   },
   "paths": {
-    "/api/V1/Countries": {
+    "/api/V2/Countries": {
       "get": {
         "tags": [
           "Countries"
